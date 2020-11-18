@@ -1,13 +1,13 @@
 ## Frameworks e tecnologias utilizados:
 
-	* *PHP*
-	* *JavaScript*
-	* *SQL (mySql)*
-	* *HTML*
-	* *CSS*
-	* *jQuery*
-	* *AJAX*
-	* *Datatables*
+* *PHP*
+* *JavaScript*
+* *SQL (mySql)*
+* *HTML*
+* *CSS*
+* *jQuery*
+* *AJAX*
+* *Datatables*
  * *bootstrap v.4.0*
 
 	IDE e banco de dados utilizados:
