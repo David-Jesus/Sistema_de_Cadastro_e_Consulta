@@ -10,11 +10,11 @@
 * *Datatables*
  * *bootstrap v.4.0*
 
-	IDE e banco de dados utilizados:
-	*Visual Studio Code
-	*Mysql
+<h2> IDE e banco de dados utilizados: </h2>
+* *Visual Studio Code*
+* *Mysql*
 
-	Funcionalidade:
+<h2> Funcionalidade: </h2>
 	
 	Realiza cadastro de empresas no banco de dados, realiza o cadastro de fornecedores 
 	que estão relacionados a Empresa cadastrada também no banco de dados. Realiza 
