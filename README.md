@@ -8,9 +8,10 @@
 * *jQuery*
 * *AJAX*
 * *Datatables*
- * *bootstrap v.4.0*
+* *bootstrap v.4.0*
 
 <h2> IDE e banco de dados utilizados: </h2>
+
 * *Visual Studio Code*
 * *Mysql*
 
