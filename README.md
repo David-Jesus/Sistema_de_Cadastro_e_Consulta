@@ -20,7 +20,11 @@
 	Realiza cadastro de empresas no banco de dados, realiza o cadastro de fornecedores 
 	que estão relacionados a Empresa cadastrada também no banco de dados. Realiza 
 	consultas de todos os fornecedores cadastrados contendo filtros de qualquer campo 
-	desejados.
+	desejado.
+
+<h2> Implementação </h2>
+
+
 
 <h2> Como Executar: </h2>
 	
