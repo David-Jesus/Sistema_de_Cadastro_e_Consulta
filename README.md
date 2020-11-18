@@ -34,7 +34,7 @@
 
 	4.Execute o arquivo "cad_fonecedores.php";
 
-	5.Realize os cadastros e consultas a vontade!
+	5.Realize os cadastros e consultas que desejar!
 	
 <h4> Desenvolvido por David </h4>
 
