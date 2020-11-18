@@ -22,7 +22,7 @@
 	consultas de todos os fornecedores cadastrados contendo filtros de qualquer campo 
 	desejados.
 
-	Como Rodar: 
+<h2> Como Executar: </h2>
 	
 	1.Fazer o download de todos os arquivos presentes neste documento;
 
