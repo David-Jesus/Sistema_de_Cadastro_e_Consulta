@@ -1,4 +1,4 @@
-## Frameworks e tecnologias utilizados:
+<h2> Frameworks e tecnologias utilizados: </h2>
 
 * *PHP*
 * *JavaScript*
